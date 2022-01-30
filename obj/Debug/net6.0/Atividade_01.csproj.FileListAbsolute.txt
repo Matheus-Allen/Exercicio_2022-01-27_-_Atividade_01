@@ -1,0 +1,15 @@
+C:\Users\mm_co\source\repos\Calculadora_IMC\bin\Debug\net6.0\Atividade_01.exe
+C:\Users\mm_co\source\repos\Calculadora_IMC\bin\Debug\net6.0\Atividade_01.deps.json
+C:\Users\mm_co\source\repos\Calculadora_IMC\bin\Debug\net6.0\Atividade_01.runtimeconfig.json
+C:\Users\mm_co\source\repos\Calculadora_IMC\bin\Debug\net6.0\Atividade_01.dll
+C:\Users\mm_co\source\repos\Calculadora_IMC\bin\Debug\net6.0\ref\Atividade_01.dll
+C:\Users\mm_co\source\repos\Calculadora_IMC\bin\Debug\net6.0\Atividade_01.pdb
+C:\Users\mm_co\source\repos\Calculadora_IMC\obj\Debug\net6.0\Atividade_01.csproj.AssemblyReference.cache
+C:\Users\mm_co\source\repos\Calculadora_IMC\obj\Debug\net6.0\Atividade_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm_co\source\repos\Calculadora_IMC\obj\Debug\net6.0\Atividade_01.AssemblyInfoInputs.cache
+C:\Users\mm_co\source\repos\Calculadora_IMC\obj\Debug\net6.0\Atividade_01.AssemblyInfo.cs
+C:\Users\mm_co\source\repos\Calculadora_IMC\obj\Debug\net6.0\Atividade_01.csproj.CoreCompileInputs.cache
+C:\Users\mm_co\source\repos\Calculadora_IMC\obj\Debug\net6.0\Atividade_01.dll
+C:\Users\mm_co\source\repos\Calculadora_IMC\obj\Debug\net6.0\ref\Atividade_01.dll
+C:\Users\mm_co\source\repos\Calculadora_IMC\obj\Debug\net6.0\Atividade_01.pdb
+C:\Users\mm_co\source\repos\Calculadora_IMC\obj\Debug\net6.0\Atividade_01.genruntimeconfig.cache
